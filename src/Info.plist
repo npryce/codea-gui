@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Main</string>
+		<string>Screen</string>
+		<string>Widget</string>
+		<string>Wrapper</string>
+		<string>Row</string>
+		<string>Column</string>
+		<string>Anchored</string>
+		<string>Margin</string>
+		<string>Text</string>
+		<string>Icon</string>
+	</array>
+	<key>Created</key>
+	<string>2012-02-20 19:04:02 +0000</string>
+	<key>Description</key>
+	<string>No description available</string>
+</dict>
+</plist>
